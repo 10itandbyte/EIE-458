@@ -1,5 +1,5 @@
 # EIE-458
  
-Códifos utilizados en ayudantia.
+Códigos utilizados en ayudantia.
 
 Bastián Romero.
